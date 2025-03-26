@@ -11,4 +11,4 @@ This repository contains the complete Smart Portfolio Management System with bot
 
 1. Clone the repository with submodules:
 ```bash
-git clone --recursive [https://github.com/yourusername/sma-main.git](https://github.com/FuryACE007/sma.git)
+git clone --recursive https://github.com/FuryACE007/sma.git
