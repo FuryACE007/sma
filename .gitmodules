@@ -1,6 +1,7 @@
 [submodule "sma-backend"]
-	path = sma-backend
-	url = ./sma-backend
+    path = sma-backend
+    url = https://github.com/FuryACE007/sma-backend.git
+
 [submodule "sma-contracts"]
-	path = sma-contracts
-	url = ./sma-contracts
+    path = sma-contracts
+    url = https://github.com/FuryACE007/sma-contracts.git
