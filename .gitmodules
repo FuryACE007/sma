@@ -1,0 +1,6 @@
+[submodule "sma-backend"]
+	path = sma-backend
+	url = ./sma-backend
+[submodule "sma-contracts"]
+	path = sma-contracts
+	url = ./sma-contracts
